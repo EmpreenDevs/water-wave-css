@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  background-image: url(wave-primary.svg), url(wave.svg);
+  background-repeat: no-repeat;
+  background-size: 65%, 68%;
+  background-position: 130% 15%, 128% 15%;
+  animation: wave 3s cubic-bezier(0.28, 0, 0.41, 1) infinite;
+}
+
+@keyframes wave {
+  0%,
+  100% {
+    background-position-x: 130%, 128%;
+  }
+  60% {
+    background-position-x: 140%, 140%;
+  }
+}
