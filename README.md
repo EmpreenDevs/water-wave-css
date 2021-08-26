@@ -1,4 +1,4 @@
-# Water Wave - Pure CSS
+# Water Wave Animation - Pure CSS
 [![N|Solid](https://i.imgur.com/2dzkWT8.png)](https://youtu.be/-M_asAzfVv4)
 
 ## 
