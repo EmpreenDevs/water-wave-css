@@ -1,4 +1,4 @@
-# Xbox Series S - Landing Page
+# Water Wave - Pure CSS
 [![N|Solid](https://i.imgur.com/2dzkWT8.png)](https://youtu.be/-M_asAzfVv4)
 
 ## 
